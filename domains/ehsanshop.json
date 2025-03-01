@@ -1,0 +1,11 @@
+{
+    "description": "Portfolio website",
+    "repo": "https://github.com/ehsanshopbd/ehsanshop.github.io",
+    "owner": {
+        "username": "ehsanshopbd",
+        "email": "ehsanshopbd@gmail.com"
+    },
+    "record": {
+        "CNAME": "ehsanshop.github.io"
+    }
+}
